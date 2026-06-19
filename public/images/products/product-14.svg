@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600">
+  <rect width="600" height="600" fill="#f1f5f9"/>
+  <rect x="50" y="50" width="150" height="150" fill="#0284c7" opacity="0.8"/>
+  <rect x="220" y="50" width="150" height="150" fill="#0284c7" opacity="0.6"/>
+  <rect x="390" y="50" width="150" height="150" fill="#0284c7" opacity="0.9"/>
+  <rect x="50" y="220" width="150" height="150" fill="#0284c7" opacity="0.5"/>
+  <rect x="220" y="220" width="150" height="150" fill="#0284c7" opacity="0.7"/>
+  <rect x="390" y="220" width="150" height="150" fill="#0284c7" opacity="0.85"/>
+  <text x="300" y="480" text-anchor="middle" fill="#0f172a" font-family="system-ui,sans-serif" font-size="18" font-weight="600">Product 14</text>
+  <text x="300" y="510" text-anchor="middle" fill="#64748b" font-family="system-ui,sans-serif" font-size="13">Product #14</text>
+</svg>
