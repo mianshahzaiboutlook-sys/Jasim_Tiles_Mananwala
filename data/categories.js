@@ -6,7 +6,7 @@ export const categories = [
     description:
       "Premium washroom tiles with water-resistant finishes for modern bathrooms.",
     image: "/images/categories/washroom-tiles.svg",
-    bannerImage: "/images/banners/washroom-tiles.svg",
+    bannerImage: "/images/banners/washroom-7.jpeg",
   },
   {
     slug: "kitchen-tiles",
@@ -21,8 +21,7 @@ export const categories = [
     slug: "front-elevation-tiles",
     name: "Front Elevation Tiles",
     shortName: "Front Tiles",
-    description:
-      "Stunning facade tiles that elevate your home's curb appeal.",
+    description: "Stunning facade tiles that elevate your home's curb appeal.",
     image: "/images/categories/front-tiles.svg",
     bannerImage: "/images/banners/front-tiles.svg",
   },
@@ -66,8 +65,7 @@ export const categories = [
     slug: "washroom-seats",
     name: "Washroom Seats",
     shortName: "Seats",
-    description:
-      "Quality washroom seats and commodes for comfort and hygiene.",
+    description: "Quality washroom seats and commodes for comfort and hygiene.",
     image: "/images/categories/washroom-seats.svg",
     bannerImage: "/images/banners/washroom-seats.svg",
   },
@@ -90,7 +88,7 @@ export const homeCategories = categories.filter((c) =>
     "compound-tiles",
     "wash-basins",
     "washroom-seats",
-  ].includes(c.slug)
+  ].includes(c.slug),
 );
 
 export function getCategoryBySlug(slug) {
