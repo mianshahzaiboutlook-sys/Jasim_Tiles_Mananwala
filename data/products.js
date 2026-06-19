@@ -13,7 +13,10 @@ export const products = [
     usageArea: "Washroom",
     description:
       "Premium quality grey marble-effect tile for modern washrooms. Water-resistant and easy to maintain.",
-    images: ["/images/products/product-1.svg", "/images/products/product-1b.svg"],
+    images: [
+      "/images/products/Washroom 12.jpeg",
+      "/images/products/product-1b.svg",
+    ],
     featured: true,
   },
   {
@@ -30,7 +33,7 @@ export const products = [
     usageArea: "Washroom",
     description:
       "Beautiful blue mosaic tiles perfect for accent walls and shower areas.",
-    images: ["/images/products/product-2.svg"],
+    images: ["/images/products/Washroom 5.jpeg"],
     featured: true,
   },
   {
@@ -47,7 +50,7 @@ export const products = [
     usageArea: "Washroom",
     description:
       "Timeless white glossy tiles that brighten any bathroom space.",
-    images: ["/images/products/product-3.svg"],
+    images: ["/images/products/Washroom 8.jpeg"],
     featured: false,
   },
   {
@@ -64,7 +67,7 @@ export const products = [
     usageArea: "Kitchen",
     description:
       "Stain-resistant slate-effect tiles ideal for kitchen floors and backsplashes.",
-    images: ["/images/products/product-4.svg"],
+    images: ["/images/products/Washroom 9.jpeg"],
     featured: true,
   },
   {
@@ -79,9 +82,8 @@ export const products = [
     finish: "Polished",
     availability: "In Stock",
     usageArea: "Kitchen",
-    description:
-      "Warm beige tones create a welcoming kitchen atmosphere.",
-    images: ["/images/products/product-5.svg"],
+    description: "Warm beige tones create a welcoming kitchen atmosphere.",
+    images: ["/images/products/Washroom 10.jpeg"],
     featured: false,
   },
   {
@@ -98,14 +100,14 @@ export const products = [
     usageArea: "Kitchen",
     description:
       "Classic subway tiles for timeless kitchen backsplash designs.",
-    images: ["/images/products/product-6.svg"],
+    images: ["/images/products/Washroom 13.jpeg"],
     featured: true,
   },
   {
     id: 7,
     name: "Sandstone Elevation",
     slug: "sandstone-elevation",
-    category: "front-elevation-tiles",
+    category: "kitchen-tiles",
     company: "Sonex Tiles",
     size: "12x24",
     color: "Sand",
@@ -113,9 +115,8 @@ export const products = [
     finish: "Textured",
     availability: "In Stock",
     usageArea: "Exterior",
-    description:
-      "Natural sandstone look for stunning front elevation facades.",
-    images: ["/images/products/product-7.svg"],
+    description: "Natural sandstone look for stunning front elevation facades.",
+    images: ["/images/products/Washroom 15.jpeg"],
     featured: true,
   },
   {
@@ -130,8 +131,7 @@ export const products = [
     finish: "Matte",
     availability: "In Stock",
     usageArea: "Exterior",
-    description:
-      "Contemporary grey facade tiles for sleek modern homes.",
+    description: "Contemporary grey facade tiles for sleek modern homes.",
     images: ["/images/products/product-8.svg"],
     featured: false,
   },
@@ -147,8 +147,7 @@ export const products = [
     finish: "Anti-Slip",
     availability: "In Stock",
     usageArea: "Outdoor",
-    description:
-      "Anti-slip terracotta tiles perfect for driveways and patios.",
+    description: "Anti-slip terracotta tiles perfect for driveways and patios.",
     images: ["/images/products/product-9.svg"],
     featured: true,
   },
@@ -164,8 +163,7 @@ export const products = [
     finish: "Anti-Slip",
     availability: "In Stock",
     usageArea: "Outdoor",
-    description:
-      "Heavy-duty granite-look tiles for outdoor compound areas.",
+    description: "Heavy-duty granite-look tiles for outdoor compound areas.",
     images: ["/images/products/product-10.svg"],
     featured: false,
   },
@@ -181,8 +179,7 @@ export const products = [
     finish: "Polished",
     availability: "In Stock",
     usageArea: "Living Room",
-    description:
-      "Luxurious ivory polished tiles for elegant living spaces.",
+    description: "Luxurious ivory polished tiles for elegant living spaces.",
     images: ["/images/products/product-11.svg"],
     featured: true,
   },
@@ -215,8 +212,7 @@ export const products = [
     finish: "Glossy",
     availability: "In Stock",
     usageArea: "Living Room",
-    description:
-      "Eye-catching geometric patterns for feature walls.",
+    description: "Eye-catching geometric patterns for feature walls.",
     images: ["/images/products/product-13.svg"],
     featured: true,
   },
@@ -232,8 +228,7 @@ export const products = [
     finish: "Textured",
     availability: "Limited Stock",
     usageArea: "Living Room",
-    description:
-      "Natural stone texture tiles for accent walls and fireplaces.",
+    description: "Natural stone texture tiles for accent walls and fireplaces.",
     images: ["/images/products/product-14.svg"],
     featured: false,
   },
@@ -266,8 +261,7 @@ export const products = [
     finish: "Matte",
     availability: "In Stock",
     usageArea: "Washroom",
-    description:
-      "Space-saving wall-hung basin for compact modern bathrooms.",
+    description: "Space-saving wall-hung basin for compact modern bathrooms.",
     images: ["/images/products/product-16.svg"],
     featured: false,
   },
@@ -300,8 +294,7 @@ export const products = [
     finish: "Glossy",
     availability: "In Stock",
     usageArea: "Washroom",
-    description:
-      "Water-saving dual flush commode with sleek one-piece design.",
+    description: "Water-saving dual flush commode with sleek one-piece design.",
     images: ["/images/products/product-18.svg"],
     featured: false,
   },
@@ -317,8 +310,7 @@ export const products = [
     finish: "Polished",
     availability: "In Stock",
     usageArea: "Washroom",
-    description:
-      "Premium chrome mixer tap with ceramic disc technology.",
+    description: "Premium chrome mixer tap with ceramic disc technology.",
     images: ["/images/products/product-19.svg"],
     featured: true,
   },
@@ -351,9 +343,8 @@ export const products = [
     finish: "Matte",
     availability: "In Stock",
     usageArea: "Washroom",
-    description:
-      "Bold black matte tiles for luxurious contemporary bathrooms.",
-    images: ["/images/products/product-21.svg"],
+    description: "Bold black matte tiles for luxurious contemporary bathrooms.",
+    images: ["/images/products/Washroom 15.jpeg"],
     featured: true,
   },
   {
@@ -387,7 +378,7 @@ export const products = [
     usageArea: "Washroom",
     description:
       "Photo added to washroom category. Replace image file as needed.",
-    images: ["/images/products/washroom-1.jpg"],
+    images: ["/images/products/Washrom 7.jpeg"],
     featured: false,
   },
 ];
@@ -419,7 +410,7 @@ export function searchProducts(query) {
       p.company.toLowerCase().includes(q) ||
       p.category.toLowerCase().includes(q) ||
       p.color.toLowerCase().includes(q) ||
-      p.material.toLowerCase().includes(q)
+      p.material.toLowerCase().includes(q),
   );
 }
 
