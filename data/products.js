@@ -373,6 +373,23 @@ export const products = [
     images: ["/images/products/product-22.svg"],
     featured: false,
   },
+  {
+    id: 23,
+    name: "Washroom Sample Photo",
+    slug: "washroom-sample-photo",
+    category: "washroom-tiles",
+    company: "Jasim Tiles",
+    size: "Custom",
+    color: "Multicolor",
+    material: "Photo",
+    finish: "Image",
+    availability: "In Stock",
+    usageArea: "Washroom",
+    description:
+      "Photo added to washroom category. Replace image file as needed.",
+    images: ["/images/products/washroom-1.jpg"],
+    featured: false,
+  },
 ];
 
 export function getProductBySlug(slug) {
