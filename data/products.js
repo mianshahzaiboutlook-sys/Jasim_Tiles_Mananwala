@@ -14,7 +14,7 @@ export const products = [
     description:
       "Premium quality grey marble-effect tile for modern washrooms. Water-resistant and easy to maintain.",
     images: [
-      "/images/products/Washroom 12.jpeg",
+      "/images/products/washroom-12.jpeg",
       "/images/products/product-1b.svg",
     ],
     featured: true,
@@ -33,7 +33,7 @@ export const products = [
     usageArea: "Washroom",
     description:
       "Beautiful blue mosaic tiles perfect for accent walls and shower areas.",
-    images: ["/images/products/Washroom 5.jpeg"],
+    images: ["/images/products/washroom-5.jpeg"],
     featured: true,
   },
   {
@@ -50,7 +50,7 @@ export const products = [
     usageArea: "Washroom",
     description:
       "Timeless white glossy tiles that brighten any bathroom space.",
-    images: ["/images/products/Washroom 8.jpeg"],
+    images: ["/images/products/washroom-8.jpeg"],
     featured: false,
   },
   {
@@ -67,7 +67,7 @@ export const products = [
     usageArea: "Kitchen",
     description:
       "Stain-resistant slate-effect tiles ideal for kitchen floors and backsplashes.",
-    images: ["/images/products/Washroom 9.jpeg"],
+    images: ["/images/products/washroom-9.jpeg"],
     featured: true,
   },
   {
@@ -83,7 +83,7 @@ export const products = [
     availability: "In Stock",
     usageArea: "Kitchen",
     description: "Warm beige tones create a welcoming kitchen atmosphere.",
-    images: ["/images/products/Washroom 10.jpeg"],
+    images: ["/images/products/washroom-10.jpeg"],
     featured: false,
   },
   {
@@ -100,7 +100,7 @@ export const products = [
     usageArea: "Kitchen",
     description:
       "Classic subway tiles for timeless kitchen backsplash designs.",
-    images: ["/images/products/Washroom 13.jpeg"],
+    images: ["/images/products/washroom-13.jpeg"],
     featured: true,
   },
   {
@@ -116,7 +116,7 @@ export const products = [
     availability: "In Stock",
     usageArea: "Exterior",
     description: "Natural sandstone look for stunning front elevation facades.",
-    images: ["/images/products/Washroom 15.jpeg"],
+    images: ["/images/products/washroom-15.jpeg"],
     featured: true,
   },
   {
@@ -344,7 +344,7 @@ export const products = [
     availability: "In Stock",
     usageArea: "Washroom",
     description: "Bold black matte tiles for luxurious contemporary bathrooms.",
-    images: ["/images/products/Washroom 15.jpeg"],
+    images: ["/images/products/washroom-15.jpeg"],
     featured: true,
   },
   {
@@ -378,7 +378,7 @@ export const products = [
     usageArea: "Washroom",
     description:
       "Photo added to washroom category. Replace image file as needed.",
-    images: ["/images/products/Washrom 7.jpeg"],
+    images: ["/images/products/washroom-7.jpeg"],
     featured: false,
   },
 ];
